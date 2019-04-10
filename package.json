@@ -1,0 +1,31 @@
+{
+  "name": "atrishte",
+  "version": "1.0.0",
+  "description": "Arishte is an online Sri Lankan liquor store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel views\\home.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenj86/Arishte.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenj86/Arishte/issues"
+  },
+  "homepage": "https://github.com/zenj86/Arishte#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0"
+  },
+  "dependencies": {
+    "footer": "^1.0.0"
+  }
+}
