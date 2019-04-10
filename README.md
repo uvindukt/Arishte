@@ -1,2 +1,2 @@
 # Arishte
-Arishte is an online Sri lanka liquor store.
+Arishte is an online Sri lankan liquor store.
